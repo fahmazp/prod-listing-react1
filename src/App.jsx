@@ -136,7 +136,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="src/assets/apple-watch.png"
+                src="/src/assets/apple-watch.png"
                 alt="product image"
               />
             </a>
@@ -296,7 +296,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="src/assets/benq-ex2710q.png"
+                src="/src/assets/benq-ex2710q.png"
                 alt="product image"
               />
             </a>
@@ -376,7 +376,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="src/assets/xbox-series-s.png"
+                src="/src/assets/xbox-series-s.png"
                 alt="product image"
               />
             </a>
