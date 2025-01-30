@@ -136,8 +136,8 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="/public/images/apple-watch.png"
-                alt="product image"
+                src="/images/apple-watch.png"
+                alt="Apple watch"
               />
             </a>
             <div className="px-5 pb-3">
@@ -296,7 +296,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="/public/images/benq-ex2710q.png"
+                src="/images/benq-ex2710q.png"
                 alt="product image"
               />
             </a>
@@ -376,7 +376,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="/public/images/xbox-series-s.png"
+                src="/images/xbox-series-s.png"
                 alt="product image"
               />
             </a>
@@ -456,7 +456,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="/public/images/xbox-series-x.png"
+                src="/images/xbox-series-x.png"
                 alt="product image"
               />
             </a>
@@ -536,7 +536,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="/public/images/nikon-d850.png"
+                src="/images/nikon-d850.png"
                 alt="product image"
               />
             </a>
@@ -776,7 +776,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="/public/images/playstation-5.png"
+                src="/images/playstation-5.png"
                 alt="product image"
               />
             </a>
