@@ -136,7 +136,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="/src/assets/apple-watch.png"
+                src="/public/images/apple-watch.png"
                 alt="product image"
               />
             </a>
@@ -296,7 +296,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="/src/assets/benq-ex2710q.png"
+                src="/public/images/benq-ex2710q.png"
                 alt="product image"
               />
             </a>
@@ -376,7 +376,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="/src/assets/xbox-series-s.png"
+                src="/public/images/xbox-series-s.png"
                 alt="product image"
               />
             </a>
@@ -456,7 +456,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="src/assets/xbox-series-x.png"
+                src="/public/images/xbox-series-x.png"
                 alt="product image"
               />
             </a>
@@ -536,7 +536,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="src/assets/nikon-d850.png"
+                src="/public/images/nikon-d850.png"
                 alt="product image"
               />
             </a>
@@ -776,7 +776,7 @@ function App() {
             <a href="#">
               <img
                 className="p-6 rounded-t-lg w-full h-72 object-contain rounded-2xl"
-                src="src/assets/playstation-5.png"
+                src="/public/images/playstation-5.png"
                 alt="product image"
               />
             </a>
