@@ -944,7 +944,7 @@ function App() {
           >
             Amazon.com
           </a>
-          . All rights reserved.
+          . Crafted By Fahmaz.
         </p>
 
         <div className="flex justify-center items-center space-x-1">
